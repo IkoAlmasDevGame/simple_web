@@ -1,0 +1,38 @@
+legend{
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 10px;
+    text-align: center;
+    text-decoration:underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+div{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.info_class{
+    background-color: whitesmoke;
+}
+
+fieldset{
+    background-color: whitesmoke;
+    color: black;
+}
+
+input{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px 5px;
+}
+
+.input_email{
+    background-color: whitesmoke;
+}
+
+.input_pass{
+    background-color: whitesmoke;
+}
